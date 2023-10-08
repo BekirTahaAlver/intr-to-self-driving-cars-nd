@@ -1,5 +1,6 @@
 # Intro-to-self-driving-cars-nd
-Udacity - Intro to Self-Driving Cars Nanodegree
+Udacity - Intro to Self-Driving Cars Nanodegree 
+
 **Topics Covered**
 1. Bayesian Thinking
 2. Working with Matrices
