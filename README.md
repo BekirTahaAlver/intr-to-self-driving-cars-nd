@@ -17,3 +17,7 @@ I learned the framework that underlies a self-driving car’s understanding of i
 **2. Working with Matrices**
 
 In this course, I focused on two tools which are vital to self-driving car engineers: object oriented programming and linear algebra.
+
+**3. C++ Basics**
+
+This course is the first step in a rewarding journey towards C++ expertise. The goal is translation: get a program written in Python, and translate it into C++.
